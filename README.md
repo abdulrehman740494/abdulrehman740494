@@ -1,5 +1,5 @@
 #  About Me:
- Hi, I'm Abdulrehman<br>🚀 DevOps & AI Enthusiast | 🎓 BSCS Undergraduate<br> Building things, breaking things, automating things.<br> Skilled in C++, Java, and Python with a strong grip on OOP and DSA.<br>⚙️ Currently exploring DevOps and AI to build smarter, faster workflows.
+ Hi, I'm <b>ABDULREHMAN<b><br>🚀 DevOps & AI Enthusiast | 🎓 BSCS Undergraduate<br> Building things, breaking things, automating things.<br> Skilled in C++, Java, and Python with a strong grip on OOP and DSA.<br>⚙️ Currently exploring DevOps and AI to build smarter, faster workflows.
 
 
 ## 🌐 Socials:
