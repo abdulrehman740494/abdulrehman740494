@@ -1,4 +1,4 @@
-# Hi , I'm Abdulrehman 👋
+# Hi , I'm Abdulrehman 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=600&height=50&lines=BSCS+Undergraduate;DevOps+%26+Cloud+Automation;AI+Workflow+Integration;Building+Scalable+Software" alt="Typing SVG" />
