@@ -84,10 +84,12 @@ I am a Computer Science undergraduate with a deep focus on **DevOps practices**,
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Badges & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulrehman740494&theme=tokyonight" alt="Trophies" />
+  <img src="https://img.shields.io/badge/GitHub-Committer-00D2FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-Public%20%26%20Private-238636?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-8A2BE2?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
