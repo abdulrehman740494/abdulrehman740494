@@ -1,4 +1,4 @@
-# Hi , I'm Abdulrehman 👋
+# Hi there, I'm Abdulrehman 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=600&height=50&lines=BSCS+Undergraduate;DevOps+%26+Cloud+Automation;AI+Workflow+Integration;Building+Scalable+Software" alt="Typing SVG" />
@@ -11,6 +11,9 @@
 </p>
 
 <p align="center">
+  <a href="https://abdul-rehman.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/abdul-rehman-a953a3324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -28,6 +31,7 @@
 
 I am a Computer Science undergraduate with a deep focus on **DevOps practices**, **Cloud Infrastructure**, and **AI-driven Automation**. I bridge the gap between software development and continuous operations by combining strong algorithmic fundamentals with modern deployment tools.
 
+* 🌐 **Portfolio:** Check out my projects and work at [abdul-rehman.web.app](https://abdul-rehman.web.app/)
 * 🎓 **Education:** Pursuing a Bachelor of Science in Computer Science (BSCS).
 * ⚙️ **Core Focus:** Building CI/CD pipelines, containerizing applications, and leveraging Infrastructure as Code (IaC).
 * 💡 **Technical Mindset:** Strong grasp of Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and clean architecture principles.
