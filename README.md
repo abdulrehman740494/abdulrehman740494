@@ -35,42 +35,29 @@ I am a Computer Science undergraduate with a deep focus on **DevOps practices**,
 
 ---
 
-## 💻 Technical Capabilities
+## 💻 Tech Stack & Skills
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Languages</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">DevOps & Cloud</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Web & Frameworks</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**DevOps & Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Frameworks & Web Technologies**  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
@@ -79,33 +66,33 @@ I am a Computer Science undergraduate with a deep focus on **DevOps practices**,
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **QueueLab Pro** | Enterprise-grade queue management web application featuring client-side WebAssembly rendering and modular backend architecture. | ASP.NET Core 9, Blazor WebAssembly, C# |
-| **DSA Visualizer Desktop Application** | Desktop GUI built to visualize complex data structures and algorithms interactively for educational purposes. | C++, Win32 / Native Graphics |
+| **DSA Visualizer** | Desktop GUI built to visualize complex data structures and algorithms interactively for educational purposes. | C++, Win32 / Native Graphics |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulrehman740494&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Abdulrehman's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman740494&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulrehman740494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdulrehman's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman740494&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman740494&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 Badges & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulrehman740494&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman740494&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulrehman740494&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 <p align="right">
