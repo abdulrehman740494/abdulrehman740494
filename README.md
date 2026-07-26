@@ -65,20 +65,21 @@ I am a Computer Science undergraduate with a deep focus on **DevOps practices**,
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **Jarvis AI Assistant** | Voice-controlled local AI assistant executing voice commands, website navigation, and conversation without third-party cloud API dependencies. | Python, Ollama, SpeechRecognition, PyAudio, pyttsx3 |
+| **Smart Delivery Management System** | C++17 logistics platform applying core Data Structures & Algorithms to real-world courier tracking, featuring dual Console (TUI) and Desktop GUI interfaces. | C++17, Dear ImGui, SFML, DSA |
 | **QueueLab Pro** | Enterprise-grade queue management web application featuring client-side WebAssembly rendering and modular backend architecture. | ASP.NET Core 9, Blazor WebAssembly, C# |
-| **DSA Visualizer** | Desktop GUI built to visualize complex data structures and algorithms interactively for educational purposes. | C++, Win32 / Native Graphics |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulrehman740494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdulrehman's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman740494&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=abdulrehman740494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdulrehman's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrehman740494&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman740494&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abdulrehman740494&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -86,7 +87,7 @@ I am a Computer Science undergraduate with a deep focus on **DevOps practices**,
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulrehman740494&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulrehman740494&theme=tokyonight" alt="Trophies" />
 </p>
 
 ---
