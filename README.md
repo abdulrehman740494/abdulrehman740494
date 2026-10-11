@@ -1,4 +1,4 @@
-# Hi , I'm Abdulrehman 
+# Hi, I'm Abdulrehman
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=600&height=50&lines=BSCS+Undergraduate;DevOps+%26+Cloud+Automation;AI+Workflow+Integration;Building+Scalable+Software" alt="Typing SVG" />
@@ -31,11 +31,11 @@
 
 I am a Computer Science undergraduate with a deep focus on **DevOps practices**, **Cloud Infrastructure**, and **AI-driven Automation**. I bridge the gap between software development and continuous operations by combining strong algorithmic fundamentals with modern deployment tools.
 
-* 🌐 **Portfolio:** Check out my projects and work at [abdul-rehman.web.app](https://abdul-rehman.web.app/)
-* 🎓 **Education:** Pursuing a Bachelor of Science in Computer Science (BSCS).
-* ⚙️ **Core Focus:** Building CI/CD pipelines, containerizing applications, and leveraging Infrastructure as Code (IaC).
-* 💡 **Technical Mindset:** Strong grasp of Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and clean architecture principles.
-* 🌱 **Currently Learning:** Advanced Kubernetes orchestration, Cloud Native CI/CD, and AI agents for software workflow optimization.
+- 🌐 **Portfolio:** Check out my projects and work at [abdul-rehman.web.app](https://abdul-rehman.web.app/)
+- 🎓 **Education:** Pursuing a Bachelor of Science in Computer Science (BSCS).
+- ⚙️ **Core Focus:** Building CI/CD pipelines, containerizing applications, and leveraging Infrastructure as Code (IaC).
+- 💡 **Technical Mindset:** Strong grasp of Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and clean architecture principles.
+- 🌱 **Currently Learning:** Advanced Kubernetes orchestration, Cloud Native CI/CD, and AI agents for software workflow optimization.
 
 ---
 
@@ -81,7 +81,6 @@ I am a Computer Science undergraduate with a deep focus on **DevOps practices**,
   <img height="180" src="https://github-readme-stats.shion.dev/api?username=abdulrehman740494&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdulrehman's GitHub Stats" />
   <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrehman740494&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman740494&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
